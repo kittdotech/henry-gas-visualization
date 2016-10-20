@@ -25,6 +25,10 @@ Once dependencies installed, go into the script directory and run the processing
 
 ## Demo
 
-Visit this [Visualization][henrygas]
-[henrygas]:
+Visit this Visualization data. [Daily][D], [Monthly][M], [Weekly][W] & [Yearly][Y]
+
+[D]: http://henrygas.herokuapp.com/price_daily
+[M]: http://henrygas.herokuapp.com/price_monthly
+[W]: http://henrygas.herokuapp.com/price_weekly
+[Y]: http://henrygas.herokuapp.com/price_yearly
 
