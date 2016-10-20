@@ -4,9 +4,11 @@ EIA Natural Gas Price Visualization
 
 The data is extracted from [EIA][eia], a very exhaustive list of worldwide toponyms.
 
-[eia]: http://www.eia.gov/
+This script visualize data using [D3.js][D3]
 
-Theis script vusulize the data in daily, weekly, monthly & annually.
+[eia]: http://www.eia.gov/
+[D3]: https://d3js.org/
+
 
 
 ## Install the dependencies
